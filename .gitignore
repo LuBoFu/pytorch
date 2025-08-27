@@ -1,0 +1,5 @@
+# Ignore conda environment files (if present in project)
+.conda/
+env/
+environment.yml
+conda-env.yml
